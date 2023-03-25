@@ -35,7 +35,6 @@ const Register = props => (
         meetingMsg,
         onClickMeetingName,
         onClickChangeName,
-        goToHomeRoute,
         onChangeEmpty,
         isEmpty,
       } = value
